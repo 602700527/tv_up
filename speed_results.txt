@@ -1,1 +1,7 @@
-东南卫视,http://125.42.151.5:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV5,http://125.42.151.107:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0,1.091 MB/s
+CCTV9,http://182.114.50.202:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0,1.168 MB/s
+CCTV11,http://182.114.50.202:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,1.168 MB/s
+东南卫视,http://125.42.151.107:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山西卫视,http://182.114.50.202:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.091 MB/s
+广东卫视,http://125.42.151.107:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+深圳卫视,http://182.114.50.202:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,1.168 MB/s
