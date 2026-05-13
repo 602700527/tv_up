@@ -1,8 +1,3 @@
 央视频道,#genre#
-CCTV13,http://58.245.97.193:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 卫视频道,#genre#
-上海卫视,http://58.245.97.193:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://124.228.160.176:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://58.245.97.193:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 其他频道,#genre#
-湖南电影,http://124.228.160.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0

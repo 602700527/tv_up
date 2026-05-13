@@ -1,5 +1,0 @@
-CCTV13,http://58.245.97.193:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
-上海卫视,http://58.245.97.193:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
-东方卫视,http://124.228.160.176:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-湖南电影,http://124.228.160.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-贵州卫视,http://58.245.97.193:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
